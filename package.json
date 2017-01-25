@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-ci-cd-jenkins-pipeline",
+  "version": "1.0.0",
+  "description": "CI/CD working and understanding of pipeline for nodejs projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveamit/nodejs-ci-cd-jenkins-pipeline.git"
+  },
+  "author": "daveamit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveamit/nodejs-ci-cd-jenkins-pipeline/issues"
+  },
+  "homepage": "https://github.com/daveamit/nodejs-ci-cd-jenkins-pipeline#readme"
+}
