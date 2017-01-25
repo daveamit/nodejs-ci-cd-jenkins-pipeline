@@ -1,3 +1,3 @@
 node {
-  git scm
+  checkout scm
 }
